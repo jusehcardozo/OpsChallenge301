@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 
-# Script: Ops 301 Challenge 09
+# Script: Ops 301 Challenge 10
 # Author: Jose Cardozo
-# Date of latest version:  12/22/2022
-# Purpose: Using Conditionals
+# Date of latest version:  12/23/2022
+# Purpose: Python File Handling
 
 import os
 
